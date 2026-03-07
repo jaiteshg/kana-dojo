@@ -1845,18 +1845,18 @@
     "id": 308,
     "fact": "'Furoshiki' are reusable cloth wraps used to carry goods or wrap gifts, often with artistic patterns.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 309,
     "fact": "Japan has a word 'tsundoku' (積ん読) for buying books and letting them pile up unread.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 310,
     "fact": "The term 'okagesama' (おかげさまで) expresses humility, meaning \"thanks to you\" or \"thanks to circumstances.\"",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
