@@ -6,7 +6,7 @@
     "meaning": "Extremely busy and desperate for help. (Set 1)",
     "id": 1,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "頭が上がらない",
@@ -15,7 +15,7 @@
     "meaning": "Feel indebted or unable to oppose someone. (Set 1)",
     "id": 2,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腰が重い",
@@ -24,7 +24,7 @@
     "meaning": "Slow to start doing something. (Set 1)",
     "id": 3,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -33,7 +33,7 @@
     "meaning": "Have many connections. (Set 1)",
     "id": 4,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "口が堅い",
@@ -42,7 +42,7 @@
     "meaning": "Can keep secrets. (Set 1)",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が短い",
@@ -51,7 +51,7 @@
     "meaning": "Impatient temperament. (Set 1)",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腹が立つ",
@@ -60,7 +60,7 @@
     "meaning": "Get angry. (Set 1)",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "手を抜く",
@@ -69,7 +69,7 @@
     "meaning": "Do less than one should. (Set 1)",
     "id": 8,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "目がない",
@@ -77,7 +77,7 @@
     "english": "No eyes",
     "meaning": "Have a weakness for something. (Set 1)",
     "id": 9,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1077,6 +1077,6 @@
     "meaning": "Obtain something. (Set 6)",
     "id": 120,
     "issued": false,
-    "completed": false
+    "completed": true
   }
 ]
