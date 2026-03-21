@@ -709,7 +709,7 @@
     "romaji": "Miru wa houraku",
     "english": "Just watching is a pleasure",
     "meaning": "Enjoy observing; you don't always need to participate",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -719,7 +719,7 @@
     "english": "The moon and a turtle",
     "meaning": "Vast difference; not comparable",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 81,
